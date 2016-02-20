@@ -1,7 +1,7 @@
 name: DRAW-office
 favicon: null
-layout_spectrum: 0.46370992599986494
-typography_spectrum: 0.21417241520248353
+layout_spectrum: 0.49984
+typography_spectrum: 0.23404
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.7008847978431731
-  lightness: 0.27573175239376724
-  saturation: 0.5424451536964625
+    - '#ffffff'
+    - '#6d6e70'
+    - '#c2c3c5'
+    - '#cddf6d'
+    - '#87888b'
+  brandStrength: 0.6875
+  lightness: 0.375
+  saturation: 0
   rhythmicContrast: 0.9860210511833429
 purpose: []
